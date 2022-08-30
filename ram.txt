@@ -1,1 +1,0 @@
-describe the go and no go gauge desing procedure with a sketch.
